@@ -11,3 +11,6 @@
 - Vias and footprints will be created later with symbols.
 
 Feel free to ask if you have any questions about the project, or how to use Inkscape.
+
+### OpenCV Script
+- Working on script to auto-detect traces, vias, pads, and designators.
